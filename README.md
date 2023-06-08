@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viniciusbastos-dev
+- 👋 Hi, I’m Vinícius
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 https://www.linkedin.com/in/vinicius-bastos-silva/
