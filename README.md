@@ -15,8 +15,8 @@
 
 # Stats
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=viniciusbastos-dev&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusbastos-dev&show_icons=true&locale=en)
 ![GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusbastos-dev&)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=viniciusbastos-dev&show_icons=true&locale=en&layout=compact)
 
 #
