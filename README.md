@@ -1,6 +1,5 @@
 <h1>Hi, i'm Vinícius 👋</h1>
 <p>Front-End Developer, passionate of programming since teenage.</p>
-<p>Currently learning Angular and Java.</p>
 
 # Social
 
@@ -15,8 +14,5 @@
 
 # Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusbastos-dev&show_icons=true&locale=en)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=viniciusbastos-dev&show_icons=true&locale=en&layout=compact)
-![GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusbastos-dev&)
-
-#
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusbastos-dev&show_icons=true&locale=en&theme=cobalt" alt="viniciusbastos-dev" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusbastos-dev&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="viniciusbastos-dev" />
