@@ -8,8 +8,9 @@
 # Skills
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 # Stats
 
