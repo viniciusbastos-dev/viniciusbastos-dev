@@ -13,7 +13,14 @@ Front-end Developer
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  ![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
+  ![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
+  ![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
+  ![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
+  ![Static Badge](https://img.shields.io/badge/MaterialUI-27272A?style=for-the-badge&logo=mui)
+  ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
+  ![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
+  ![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)  
 </p>
 
 
