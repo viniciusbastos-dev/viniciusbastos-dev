@@ -11,8 +11,6 @@ Front-end Developer
 
 ### Skills
 
-
-<p align="left">
   ![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
   ![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
   ![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
@@ -21,7 +19,6 @@ Front-end Developer
   ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
   ![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
   ![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)  
-</p>
 
 
 ### Socials
