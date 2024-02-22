@@ -7,7 +7,7 @@ Front-end Developer
 * 🖥️  See my portfolio at [Portfolio](http://viniciusbastos.vercel.app)
 * ✉️  You can contact me at [viniciusbsilva57@gmail.com](mailto:viniciusbsilva57@gmail.com)
 * 🚀  I'm currently working on [Moviectionary](http://moviectionary.vercel.app)
-* 🧠  I'm learning Redux
+* 🧠  I'm learning Next
 
 ### Skills
 
