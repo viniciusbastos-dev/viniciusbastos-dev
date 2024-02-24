@@ -18,8 +18,6 @@ Front-end Developer
   ![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
   ![Static Badge](https://img.shields.io/badge/MaterialUI-27272A?style=for-the-badge&logo=mui)
   ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
-  ![Static Badge](https://img.shields.io/badge/Express-27272A?style=for-the-badge&logo=Express)
-  ![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=MongoDB)  
 
 
 ### Socials
