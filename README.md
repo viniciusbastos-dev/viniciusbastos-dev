@@ -13,10 +13,11 @@ Front-end Developer
 
   ![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
   ![Static Badge](https://img.shields.io/badge/React%20Native-27272A?style=for-the-badge&logo=React)
-  ![Next.js](https://img.shields.io/badge/Next.js-27272A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Next.js-27272A?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
   ![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
   ![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
+  ![Static Badge](https://img.shields.io/badge/Tailwind-27272A?style=for-the-badge&logo=tailwindcss)
   ![Static Badge](https://img.shields.io/badge/MaterialUI-27272A?style=for-the-badge&logo=mui)
   ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
 
