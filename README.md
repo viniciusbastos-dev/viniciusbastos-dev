@@ -4,22 +4,24 @@ Hi 👋 My name is Vinícius Bastos
 Front-end Developer
 -------------------
 
-* 🖥️  See my portfolio at [Portfolio](http://viniciusbastos.vercel.app)
-* ✉️  You can contact me at [viniciusbsilva57@gmail.com](mailto:viniciusbsilva57@gmail.com)
-* 🚀  I'm currently working on [The Movie Dictionary](http://themoviedictionary.vercel.app)
-* 🧠  I'm learning Next
+* 🖥️  See my portfolio at [Portfolio](http://viniciusbastos.vercel.app)
+* ✉️  You can contact me at [viniciusbsilva57@gmail.com](mailto:viniciusbsilva57@gmail.com)
+* 🚀  I'm currently working on a **platform for photographers**
+* 🧠  I'm learning **Golang** and improving my backend skills with **Fastify, MongoDB, and AWS S3**
 
 ### Skills
 
   ![Static Badge](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=React)
   ![Static Badge](https://img.shields.io/badge/React%20Native-27272A?style=for-the-badge&logo=React)
   ![Static Badge](https://img.shields.io/badge/Next.js-27272A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Javascript-27272A?style=for-the-badge&logo=Javascript)
   ![Static Badge](https://img.shields.io/badge/Typescript-27272A?style=for-the-badge&logo=Typescript)
-  ![Static Badge](https://img.shields.io/badge/Styled-27272A?style=for-the-badge&logo=Styled-components)
   ![Static Badge](https://img.shields.io/badge/Tailwind-27272A?style=for-the-badge&logo=tailwindcss)
-  ![Static Badge](https://img.shields.io/badge/MaterialUI-27272A?style=for-the-badge&logo=mui)
-  ![Static Badge](https://img.shields.io/badge/Node-27272A?style=for-the-badge&logo=Node.js)
+  ![Static Badge](https://img.shields.io/badge/Styled%20Components-27272A?style=for-the-badge&logo=styled-components)
+  ![Static Badge](https://img.shields.io/badge/Node.js-27272A?style=for-the-badge&logo=node.js)
+  ![Static Badge](https://img.shields.io/badge/Fastify-27272A?style=for-the-badge&logo=fastify)
+  ![Static Badge](https://img.shields.io/badge/MongoDB-27272A?style=for-the-badge&logo=mongodb)
+  ![Static Badge](https://img.shields.io/badge/AWS%20S3-27272A?style=for-the-badge&logo=amazons3)
+  ![Static Badge](https://img.shields.io/badge/Golang-27272A?style=for-the-badge&logo=go)
 
 
 ### Socials
