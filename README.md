@@ -4,7 +4,7 @@ Hi 👋 My name is Vinícius Bastos
 Front-end Developer
 -------------------
 
-* 🖥️  See my portfolio at [Portfolio](http://viniciusbastos.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](https://viniciusbastos.dev)
 * ✉️  You can contact me at [viniciusbsilva57@gmail.com](mailto:viniciusbsilva57@gmail.com)
 * 🚀  I'm currently working on a **platform for photographers**
 * 🧠  I'm learning **Golang** and improving my backend skills with **Fastify, MongoDB, and AWS S3**
